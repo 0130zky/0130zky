@@ -28,13 +28,13 @@
 ### 🏫 与我有关
 
 <p align="center">
-  <img src="assets/xut.png" height="64" alt="西安理工大学" title="西安理工大学" style="vertical-align:middle"/>
+  <img src="assets/xut.png" height="64" alt="西安理工大学" title="西安理工大学"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/xjtu.png" height="64" alt="西安交通大学" title="西安交通大学" style="vertical-align:middle"/>
+  <img src="assets/xjtu.png" height="64" alt="西安交通大学" title="西安交通大学"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/insta360.png" height="44" alt="影石创新 Insta360" title="影石创新 Insta360" style="vertical-align:middle"/>
+  <img src="assets/insta360.png" height="64" alt="影石创新 Insta360" title="影石创新 Insta360"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/rm.png" height="44" alt="RoboMaster 机甲大师" title="RoboMaster 机甲大师" style="vertical-align:middle"/>
+  <img src="assets/rm.png" height="64" alt="RoboMaster 机甲大师" title="RoboMaster 机甲大师"/>
 </p>
 
 ---
