@@ -32,9 +32,9 @@
   &nbsp;&nbsp;&nbsp;
   <img src="assets/xjtu.png" height="64" alt="西安交通大学" title="西安交通大学"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/insta360.png" height="64" alt="影石创新 Insta360" title="影石创新 Insta360"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="assets/rm.png" height="64" alt="RoboMaster 机甲大师" title="RoboMaster 机甲大师"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/insta360.png" height="64" alt="影石创新 Insta360" title="影石创新 Insta360"/>
 </p>
 
 ---
