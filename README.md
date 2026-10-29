@@ -11,6 +11,9 @@
   <a href="mailto:kaiyue.link@gmail.com">
     <img src="https://img.shields.io/badge/Email-kaiyue.link@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/>
   </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=0130zky&label=主页访问&color=7aa2f7&style=flat" alt="views"/>
 </p>
 
@@ -40,7 +43,7 @@
 ### 🛠 技术栈
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,rust,embedded,linux,git,docker,vscode&theme=dark" alt="tech"/>
+  <img src="https://skillicons.dev/icons?i=cpp,py,rust,linux,git,docker,vscode&theme=dark" alt="tech"/>
 </p>
 
 - **语言：** C / C++ · Python ·  Rust · Java
