@@ -13,9 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0130zky&label=主页访问&color=7aa2f7&style=flat" alt="views"/>
-</p>
 
 ---
 
