@@ -19,8 +19,8 @@
 ### 🧢 关于我
 
 - 🎓 **本科在读** · 西安理工大学 · 电子科学与技术（2029毕业）
-- 🔬 **科研经历** · 西安交通大学 精密微纳制造技术全国重点实验室
-- 🤖 **RoboMaster 战队** · 电控组组长，做电机三环控制、CAN 总线、STM32 bring-up
+- 🔬 **科研经历** · 西安交通大学 · 精密微纳制造技术全国重点实验室
+- 🤖 **RoboMaster 战队** · 27赛季电控组组长，电机三环控制、CAN 总线、STM32
 - 💼 **实习经历** · 影石创新 Insta360（2026.05 – 2026.10），嵌入式软件测试开发实习生
 
 ---
@@ -45,7 +45,7 @@
 
 - **语言：** C / C++ · Python ·  Rust · Java
 - **MCU / 总线：** STM32F1 / F4 / H7，HAL 库，CAN、UART、SPI、I2C
-- **运动控制：** 电机三环控制，DM3507 / GM6020 / M3508，offboard 调参；无人机控制算法（避障与路径规划方向）
+- **运动控制：** 电机三环控制，DM3507 / GM6020 / M3508，offboard 调参；PX4，AP与无人机控制算法（避障与路径规划方向）
 - **硬件：** PCB Layout（嘉立创 EDA）、原理图 review、焊接
 - **工具链：** Keil、STM32CubeMX、OpenOCD / DAPLink、Git、Docker、Ubuntu
 - **桌面 / Web：** React + TypeScript、Tauri、FastAPI、Nginx
@@ -55,4 +55,3 @@
 ### 📫 联系我
 
 - 📧 **邮箱：** kaiyue.link@gmail.com
-- 🌍 现居西安 → 即将赴德
