@@ -18,12 +18,10 @@
 
 ### 🧢 关于我
 
-- 🎓 **本科在读** · 西安理工大学 · 电子科学与技术（集成电路方向）
-- 🔬 **科研经历** · 西安交通大学 院士实验室，参与光伏滑翔验证机课题
+- 🎓 **本科在读** · 西安理工大学 · 电子科学与技术（2029毕业）
+- 🔬 **科研经历** · 西安交通大学 精密微纳制造技术全国重点实验室
 - 🤖 **RoboMaster 战队** · 电控组组长，做电机三环控制、CAN 总线、STM32 bring-up
-- 💼 **实习经历** · 影石创新 Insta360（2026.05 – 2026.10），嵌入式测试与桌面工具开发，含无人机避障控制算法（高度/方向投影、停障状态机）与 USB 设备通信（React / Tauri / Rust / Python）
-- 🇩🇪 **下一步** · 赴德读电子工程硕士，备考 TestDaF
-- 🧠 INTJ —— 能从零重写的东西，我懒得去调别人写好的抽象
+- 💼 **实习经历** · 影石创新 Insta360（2026.05 – 2026.10），嵌入式软件测试开发实习生
 
 ---
 
@@ -45,20 +43,12 @@
   <img src="https://skillicons.dev/icons?i=cpp,py,rust,embedded,linux,git,docker,vscode&theme=dark" alt="tech"/>
 </p>
 
-- **语言：** C / C++（主力）· Python · 一点 Rust · TypeScript
+- **语言：** C / C++ · Python ·  Rust · Java
 - **MCU / 总线：** STM32F1 / F4 / H7，HAL 库，CAN、UART、SPI、I2C
-- **运动控制：** 电机三环控制，DM3507 / GM6020 / M3508，offboard 调参；无人机避障与停障状态机
-- **硬件：** PCB Layout（嘉立创 EDA）、原理图 review、焊接（JST / XT30）
+- **运动控制：** 电机三环控制，DM3507 / GM6020 / M3508，offboard 调参；无人机控制算法（避障与路径规划方向）
+- **硬件：** PCB Layout（嘉立创 EDA）、原理图 review、焊接
 - **工具链：** Keil、STM32CubeMX、OpenOCD / DAPLink、Git、Docker、Ubuntu
 - **桌面 / Web：** React + TypeScript、Tauri、FastAPI、Nginx
-
----
-
-### 🔭 现在在忙什么
-
-- 🏎 RoboMaster 备赛 —— 底盘与云台控制环调试
-- 📚 TestDaF 词汇 + 高数 / 电路 / 信号备考
-- 🛠 个人项目：语音助手面板、无人机避障自动化工具的后续迭代
 
 ---
 
